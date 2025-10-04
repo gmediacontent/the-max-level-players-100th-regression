@@ -1,1 +1,2 @@
-# the-max-level-players-100th-regression
+# The Max-Level Player's 100th Regression
+La Terre se retrouve dans un jeu de mort mondial auquel toute personne âgée de 15 à 29 ans doit participer. Dans ce jeu à mort en 20 rounds, Ryu Min se retrouve seul à l'entrée du dernier round. Cependant, le jeu le nargue, le tuant pour ne pas avoir satisfait aux conditions d'entrée d'un groupe minimum de 5 hommes. Aujourd'hui, à sa 100e et dernière tentative, il utilise les informations qu'il a apprises lors de ses 99 tentatives précédentes pour aider à réunir les compagnons nécessaires pour atteindre la fin. Ryu Min pourra-t-il enfin battre le jeu, ou périra-t-il dans sa tentative ?
